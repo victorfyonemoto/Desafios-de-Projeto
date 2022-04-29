@@ -1,6 +1,6 @@
 ## Orientação a Objetos (OOJS)
 
-# Atividade - Conta Bancária
+## Atividade - Conta Bancária
 
 1. Crie a classe `ContaBancaria`, que possui os parâmetros `agencia`, `numero`, `tipo` e `saldo`;
 2. Dentro de `ContaBancaria`, construa o getter e o setter de `saldo`;
