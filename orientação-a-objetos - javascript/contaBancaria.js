@@ -68,5 +68,5 @@ class ContaUniversitaria extends ContaBancaria {
 	}
 }
 
-const minhaConta = new ContaCorrente(1, 211, true);
-const contaUni = new ContaUniversitaria(2, 333);
+//const minhaConta = new ContaCorrente( , , );
+//const contaUni = new ContaUniversitaria(  , );
