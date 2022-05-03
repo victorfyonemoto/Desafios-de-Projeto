@@ -3,7 +3,7 @@ public class main {
 
         cliente monica = new cliente();
         monica.setNome("Monica");
-        monica.setCPF("XXX.XXX.XXX-XXX");
+        monica.setCPF("XXX.XXX.XXX-XX");
         conta cc = new contaCorrente(monica);
         conta cp = new contaPoupanca(monica);
 
